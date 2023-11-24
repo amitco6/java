@@ -4,6 +4,7 @@ public class Main {
     public static void main(String[] args){
         //1.print numbers
         printNumbers(10);
+        printNumbers(8);
 
         // 2. cat euues
         System.out.println("Cat Eyes: " + catEyes(9));
