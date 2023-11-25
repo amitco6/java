@@ -21,6 +21,8 @@ public class Swapping2Numbers {
 
 
         System.out.println("after swapping values are: "+"a="+a + " b="+b);
+        System.out.println("after swapping values are: "+"a="+a + " b="+b);
+
 
     }
 }
